@@ -1,0 +1,5 @@
+{
+    "username_field_id": "mat-input-0",
+    "password_field_id": "mat-input-1",
+    "login_button_locator": "//button//span[contains(text(), 'Sign In')]"
+}
